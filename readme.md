@@ -55,6 +55,7 @@ downloaded:
 
 ~~~
 play -i com.google.android.youtube -c 1547296192
+play -b arm64-v8a -i com.google.android.youtube -c 1547296192
 ~~~
 
 ## goals
